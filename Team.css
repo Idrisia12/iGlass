@@ -82,12 +82,12 @@ a{
 .cardie h1{
   font-size: 25px;
   content: '';
-  color: white;
+  color: bkack;
   margin: 15px 0;
 }
 
 .job-title{
-  color: white;
+  color: black;
   font-size: 15px;
   font-weight: 300px;
 }
