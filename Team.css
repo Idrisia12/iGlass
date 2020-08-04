@@ -49,7 +49,7 @@ a{
 
 .cardie{
   width: 305px;
-  background-image: linear-gradient(to right, #0B0C10, #222629);
+  background-image: linear-gradient(to right, grey, grey);
   color: white;
   display: flex;
   flex-direction: column;
