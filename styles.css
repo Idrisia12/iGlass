@@ -137,7 +137,7 @@ body{
 /*-----Awards---*/
 
 #award{
-   background-image: linear-gradient(to right,  white, white);
+  background-color: #f8f9fa;
   padding-bottom: 50px;
   padding-top: 60px;
   color: black;
