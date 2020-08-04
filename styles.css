@@ -206,7 +206,7 @@ body{
 
 /*-----------Footer--*/
 #footer{
-      background-image: linear-gradient(to right,  #474B4F, #222629);
+      background-image: linear-gradient(to right,  purple, blue, dodgerblue);
      color: #fff;
 }
 
