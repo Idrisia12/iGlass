@@ -14,7 +14,7 @@ body{
 }
 
 .navbar{
-  background-image: linear-gradient(to right, purple, white, dodgerblue);
+  background-image: linear-gradient(to right, purple, blue, dodgerblue);
   padding: 0 !important;
 }
 
@@ -45,7 +45,7 @@ body{
 
 /*-----Banner Section*/
 #banner{
-  background-image: linear-gradient(to right, purple, dodgerblue);
+  background-image: linear-gradient(to right, purple, blue, dodgerblue);
   color: #fff;
   padding-top: 5%;
 }
