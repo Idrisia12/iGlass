@@ -13,8 +13,7 @@ a{
 
 .sectioner {
   padding: 5rem 0;
-  /*background-color: #0f3959;*/
-    background-color: #f8f9fa;
+  background-color: white;
 }
 
 .heading{
@@ -49,7 +48,7 @@ a{
 
 .cardie{
   width: 305px;
-  background-color: white;
+  background-color: #f8f9fa;
   color: black;
   display: flex;
   flex-direction: column;
