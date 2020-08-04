@@ -62,8 +62,9 @@ body{
 }
 /*-----------------About----*/
 #About{
+   background-color: #f8f9fa;
    padding: 80px 0;
-   background-image: linear-gradient(to right,  white, white);
+   /*background-image: linear-gradient(to right,  white, white);*/
 }
 .title{
   color: #45A29E;
