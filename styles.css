@@ -18,6 +18,8 @@ body{
   padding: 0 !important;
 }
 
+.mySlides {display:none;}
+
 .navbar-brand{
    font-size: 50px;
 }
