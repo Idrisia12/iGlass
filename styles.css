@@ -51,7 +51,7 @@ body{
 
 /*-----Banner Section*/
 #banner{
-  background-image: linear-gradient(to right, purple, blue, dodgerblue);
+  background-image: url("
   color: #fff;
   padding-top: 5%;
 }
@@ -63,7 +63,7 @@ body{
   color: #f8f9fa;
 }
 
-.homep{
+.col-md-6, .homep{
   text-align: center;
 }
 
