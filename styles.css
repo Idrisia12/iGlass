@@ -61,6 +61,11 @@ body{
   font-weight: 400;
   margin-top: 100px;
   color: #f8f9fa;
+  margin-right: 50px;
+}
+
+.promo-para{
+  font-size: 25px;
   text-align: center;
 }
 
