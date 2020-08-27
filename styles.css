@@ -51,9 +51,7 @@ body{
 
 /*-----Banner Section*/
 #banner{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-i37TzTZ6020I9-d6O5elGML0Xg9DbWP9Dw&usqp=CAU");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: linear-gradient(to right, purple, blue, dodgerblue);
   color: #fff;
   padding-top: 5%;
 }
