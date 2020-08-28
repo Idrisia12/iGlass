@@ -54,6 +54,7 @@ body{
   background-image: linear-gradient(to right, purple, blue, dodgerblue);
   color: #fff;
   padding-top: 5%;
+  text-align: center;
 }
 
 h3{
