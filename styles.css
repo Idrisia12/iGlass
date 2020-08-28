@@ -252,7 +252,7 @@ h5{
   text-align: center;
   padding-top: 7px
   border-radius: 2px;
-   background-image: linear-gradient(to right,  #474B4F, #222629);
+  background-image: linear-gradient(to right,  purple, purple);
 }
 
 .footer-box .form-control{
